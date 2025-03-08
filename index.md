@@ -16,6 +16,8 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
+* **Liu, Z**., Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). Synthesize Then Align: Modality Alignment Augmentation for Zero-shot Image Captioning with Synthetic Data.<br>Knowledge-Based Systems.
+
 * **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence.
 
 * **Liu, Z**., & Ma, F. (2024). Target-oriented Multimodal Sentiment Classification with Adaptive Modality Weighting.<br>In CCF International Conference on Natural Language Processing and Chinese Computing. 
@@ -56,5 +58,5 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * Song, Y., Wang, J., Liang, Z., **Liu, Z**., & Jiang, T. (2020). Utilizing BERT Intermediate Layers for Aspect Based Sentiment Analysis and Natural Language Inference.<br>arXiv preprint arXiv:2002.04815.
 
 ### Academic Services
-* Conference Reviewer: AAAI, ACL, CVPR, ECML-PKDD, ACL Rolling Review
+* Conference Reviewer: AAAI, ACL, CVPR, ICCV, ECML-PKDD, ACL Rolling Review
 * Journal Reviewer: IEEE Transactions, The Computer Journal, Expert Systems with Applications, Machine Learning
