@@ -16,7 +16,13 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
-* **Liu, Z**., Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). Synthesize Then Align: Modality Alignment Augmentation for Zero-shot Image Captioning with Synthetic Data.<br>Knowledge-Based Systems.
+* **Liu, Z**., Zhang, X., & Liu, J. (2025). Task-Specific Information Decomposition for End-to-End Dense Video Captioning.<br>In Annual Meeting of the Association for Computational Linguistics.
+
+* **Liu, Z**., Liu, S., Liu, J., & Zhang, X. (2025). Synthesize Then Align: Modality Alignment Augmentation for Zero-shot Image Captioning with Synthetic Data.<br>Knowledge-Based Systems.
+ 
+* **Liu, Z**., Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering.<br>In IEEE International Conference on Multimedia & Expo.
+      
+* **Liu, Z**., Ma, F., & Ling, X. (2025). Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing.<br>In IEEE International Conference on Multimedia & Expo.
 
 * **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence.
 
