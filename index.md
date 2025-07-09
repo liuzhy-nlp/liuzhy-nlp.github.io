@@ -11,8 +11,8 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * Multimodal Learning
 
 ### Education
-* **2018-2022,**    Ph.D., Sun Yat-Sen University, [School of Computer Science and Engineering](http://cse.sysu.edu.cn/). Advisor: Prof. [Jiahai Wang](http://cse.sysu.edu.cn/content/2551)
-* **2015-2018,**    M.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/). Advisor: Prof. [Dong Song](https://teacher.nwpu.edu.cn/songdong.html)
+* **2018-2022,**    Ph.D., Sun Yat-Sen University, [School of Computer Science and Engineering](http://cse.sysu.edu.cn/).
+* **2015-2018,**    M.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
