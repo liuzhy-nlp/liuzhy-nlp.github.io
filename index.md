@@ -18,6 +18,8 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
 * **Liu, Z**., Zhang, X., & Liu, J. (2025). Task-Specific Information Decomposition for End-to-End Dense Video Captioning.<br>In Annual Meeting of the Association for Computational Linguistics.
 
+* **Liu, Z**., & Zhou, W. (2025). Bridging Semantic and Modality Gaps in Zero-Shot Captioning via Retrieval from Synthetic Data.<br>In Conference on Empirical Methods in Natural Language Processing. 
+
 * **Liu, Z**., Liu, S., Liu, J., & Zhang, X. (2025). Synthesize Then Align: Modality Alignment Augmentation for Zero-shot Image Captioning with Synthetic Data.<br>Knowledge-Based Systems.
  
 * **Liu, Z**., Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering.<br>In IEEE International Conference on Multimedia & Expo.
@@ -65,4 +67,4 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 
 ### Academic Services
 * Conference Reviewer: AAAI, ACL, CVPR, ICCV, ECML-PKDD, ACL Rolling Review
-* Journal Reviewer: IEEE Transactions, The Computer Journal, Expert Systems with Applications, Machine Learning
+* Journal Reviewer: IEEE Transactions, Knowledge-Based Systems, Expert Systems with Applications, The Computer Journal, Machine Learning
