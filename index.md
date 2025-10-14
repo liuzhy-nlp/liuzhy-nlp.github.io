@@ -16,47 +16,47 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
 ### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
-* **Liu, Z**., Zhang, X., & Liu, J. (2025). Task-Specific Information Decomposition for End-to-End Dense Video Captioning.<br>In Annual Meeting of the Association for Computational Linguistics.
+* **Liu, Z**., Zhang, X., & Liu, J. (2025). Task-Specific Information Decomposition for End-to-End Dense Video Captioning.<br>In Annual Meeting of the Association for Computational Linguistics (ACL).
 
-* **Liu, Z**., & Zhou, W. (2025). Bridging Semantic and Modality Gaps in Zero-Shot Captioning via Retrieval from Synthetic Data.<br>In Conference on Empirical Methods in Natural Language Processing. 
+* **Liu, Z**., & Zhou, W. (2025). Bridging Semantic and Modality Gaps in Zero-Shot Captioning via Retrieval from Synthetic Data.<br>In Conference on Empirical Methods in Natural Language Processing (EMNLP).
 
 * **Liu, Z**., Liu, S., Liu, J., & Zhang, X. (2025). Synthesize Then Align: Modality Alignment Augmentation for Zero-shot Image Captioning with Synthetic Data.<br>Knowledge-Based Systems.
  
-* **Liu, Z**., Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering.<br>In IEEE International Conference on Multimedia & Expo.
+* **Liu, Z**., Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering.<br>In IEEE International Conference on Multimedia & Expo (ICME).
       
-* **Liu, Z**., Ma, F., & Ling, X. (2025). Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing.<br>In IEEE International Conference on Multimedia & Expo.
+* **Liu, Z**., Ma, F., & Ling, X. (2025). Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing.<br>In IEEE International Conference on Multimedia & Expo (ICME).
 
-* **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence.
+* **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence (AAAI).
 
-* **Liu, Z**., & Ma, F. (2024). Target-oriented Multimodal Sentiment Classification with Adaptive Modality Weighting.<br>In CCF International Conference on Natural Language Processing and Chinese Computing. 
+* **Liu, Z**., & Ma, F. (2024). Target-oriented Multimodal Sentiment Classification with Adaptive Modality Weighting.<br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
-* Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (*equal contribution).
+* Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (ACL, *equal contribution).
 
-* Lei, N., Cai, J., Qian, Y., Zheng, Z., Han, C., **Liu, Z**., & Huang, Q. (2023). A Two-Stage Chinese Medical Video Retrieval Framework with LLM. <br>In CCF International Conference on Natural Language Processing and Chinese Computing.
+* Lei, N., Cai, J., Qian, Y., Zheng, Z., Han, C., **Liu, Z**., & Huang, Q. (2023). A Two-Stage Chinese Medical Video Retrieval Framework with LLM. <br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
-* Zheng, X., **Liu, Z**., Zhang, Z., Wang, Z., & Wang, J. (2022). UECA-Prompt: Universal Prompt for Emotion Cause Analysis.<br>In International Conference on Computational Linguistics. 
+* Zheng, X., **Liu, Z**., Zhang, Z., Wang, Z., & Wang, J. (2022). UECA-Prompt: Universal Prompt for Emotion Cause Analysis.<br>In International Conference on Computational Linguistics (COLING).
 
-* **Liu, Z**., Wang, Z., & Wang, J. (2022). A Coarse-to-Fine Training Paradigm for Dialogue Summarization. <br>In International Conference on Artificial Neural Networks. 
+* **Liu, Z**., Wang, Z., & Wang, J. (2022). A Coarse-to-Fine Training Paradigm for Dialogue Summarization. <br>In International Conference on Artificial Neural Networks (ICANN). 
 
 * Du, X., Chen, S., **Liu, Z**., & Wang, J. (2022). Multiple Userids Identification with Deep Learning.<br>Expert Systems with Applications.
 
-* **Liu, Z**., Wang, J., & Li, Z. (2021). Topic-to-Essay Generation with Comprehensive Knowledge Enhancement. <br>In Joint European Conference on Machine Learning and Knowledge Discovery in Databases. 
+* **Liu, Z**., Wang, J., & Li, Z. (2021). Topic-to-Essay Generation with Comprehensive Knowledge Enhancement. <br>In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD).
   
-* Du, X., Wang, J., Chen, S., & **Liu, Z**. (2021). Multi-agent Deep Reinforcement Learning with Spatio-Temporal Feature Fusion for Traffic Signal Control.<br>In Joint European Conference on Machine Learning and Knowledge Discovery in Databases. 
+* Du, X., Wang, J., Chen, S., & **Liu, Z**. (2021). Multi-agent Deep Reinforcement Learning with Spatio-Temporal Feature Fusion for Traffic Signal Control.<br>In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD).
   
-* **Liu, Z**., & Wang, J. (2021). A Cooperative Framework with Generative Adversarial Networks and Entropic Auto-Encoders for Text Generation.<br>In International Joint Conference on Neural Networks. 
+* **Liu, Z**., & Wang, J. (2021). A Cooperative Framework with Generative Adversarial Networks and Entropic Auto-Encoders for Text Generation.<br>In International Joint Conference on Neural Networks (IJCNN).
   
-* **Liu, Z**., Wang, J., & Liang, Z. (2020). CatGAN: Category-Aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation.<br>In AAAI Conference on Artificial Intelligence. 
+* **Liu, Z**., Wang, J., & Liang, Z. (2020). CatGAN: Category-Aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation.<br>In AAAI Conference on Artificial Intelligence (AAAI).
   
-* **Liu, Z**., Wang, J., Du, X., Rao, Y., & Quan, X. (2020). GSMNet: Global Semantic Memory Network for Aspect-Level Sentiment Classification.<br>IEEE Intelligent Systems. 
+* **Liu, Z**., Wang, J., Du, X., Rao, Y., & Quan, X. (2020). GSMNet: Global Semantic Memory Network for Aspect-Level Sentiment Classification.<br>IEEE Intelligent Systems.
   
-* Jiang, T., Wang, J., **Liu, Z**., & Ling, Y. (2020). Fusion-Extraction Network for Multimodal Sentiment Analysis.<br>In Advances in Knowledge Discovery and Data Mining: 24th Pacific-Asia Conference. 
+* Jiang, T., Wang, J., **Liu, Z**., & Ling, Y. (2020). Fusion-Extraction Network for Multimodal Sentiment Analysis.<br>In Advances in Knowledge Discovery and Data Mining: 24th Pacific-Asia Conference (PAKDD).
   
 * Liu, C., **Liu, Z**., Wang, J., & Zhou, Y. (2020). Template-Enhanced Aspect Term Extraction with Bi-Contextual Convolutional Neural Networks.<br>In International Conference on Neural Computing for Advanced Applications. 
   
 * Li, Y., Song, D., **Liu, Z**., & Cao, Y. (2020). IMA System Health Assessment Method Based on Incremental Random Forest.<br>Information Technology and Intelligent Transportation Systems.
   
-* Song, Y., Wang, J., Jiang, T., **Liu, Z**., & Rao, Y. (2019). Targeted sentiment classification with attentional encoder network.<br>In International Conference on Artificial Neural Networks. 
+* Song, Y., Wang, J., Jiang, T., **Liu, Z**., & Rao, Y. (2019). Targeted sentiment classification with attentional encoder network.<br>In International Conference on Artificial Neural Networks (ICANN).
   
 * Gao, Z., Ma, C., Luo, Y., & **Liu, Z**. (2018). IMA Health State Evaluation Using Deep Feature Learning with Quantum Neural Network.<br>Engineering Applications of Artificial Intelligence.
   
