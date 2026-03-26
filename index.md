@@ -1,7 +1,7 @@
 ### About Me
-Zhiyue Liu is currently an Assistant Professor in Guangxi University. He received the Ph.D. degree in computer science from [Sun Yat-sen University](http://www.sysu.edu.cn/).
+Zhiyue Liu is currently an associate professor in Guangxi University. He received the Ph.D. degree in computer science in 2022 from [Sun Yat-sen University](http://www.sysu.edu.cn/).
 
-Contact E-mail: liuzhy [at] gxu.edu.cn or liuzhy93 [at] mail2.sysu.edu.cn.
+Contact E-mail: liuzhy [replace with at] gxu.edu.cn or liuzhy93 [replace with at] mail2.sysu.edu.cn.
 
 For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacherDetails/8957b7cd-f46f-4f05-a6f9-ed907b652c97).
 
