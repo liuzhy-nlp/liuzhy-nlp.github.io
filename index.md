@@ -36,7 +36,7 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 
 * **Liu, Z**., & Ma, F. (2024). Target-oriented Multimodal Sentiment Classification with Adaptive Modality Weighting.<br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
-* Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (ACL, *equal contribution).
+* Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (ACL, *Equal contribution).
 
 * Lei, N., Cai, J., Qian, Y., Zheng, Z., Han, C., **Liu, Z**., & Huang, Q. (2023). A Two-Stage Chinese Medical Video Retrieval Framework with LLM. <br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
