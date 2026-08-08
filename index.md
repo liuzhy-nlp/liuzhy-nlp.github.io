@@ -15,7 +15,8 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * **2015-2018,**    M.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
-### Publications (*Corresponding author) [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
+### Publications (*Corresponding author)
+[[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
 * **Liu, Z**.*, Zhou, W., Qin, J., & Jiang, Q. (2026). Entity-Faithful Repair of Synthetic Supervision for Zero-Shot Image Captioning.<br>In ACM International Conference on Multimedia (ACM MM).
 
 * Jiang, Q., **Liu, Z**.*, Zhou, W., Qin, J., Huang, Q., & Wang, J. (2026). ExCap: Entity-Aware Zero-Shot Image Captioning via Faithful Synthetic Image-Text Alignment.<br>Knowledge-Based Systems.
