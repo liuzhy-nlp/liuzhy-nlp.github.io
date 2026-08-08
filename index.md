@@ -15,28 +15,32 @@ For more details, see my [Chinese personal page](https://prof.gxu.edu.cn/teacher
 * **2015-2018,**    M.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 * **2011-2015,**    B.Eng., Northwestern Polytechnical University, [School of Aeronautics](https://hangkong.nwpu.edu.cn/).
 
-### Publications [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
-* Huang, Q., Yang, C., Yao, J., **Liu, Z**.*, Cai, Y., & Zhang, X. (2026). CMIG: Conceptual Metaphor Theory-Inspired Framework for Metaphorical Image Generation. In Annual Meeting of the Association for Computational Linguistics (ACL, *Corresponding author).
+### Publications (*Corresponding author) [[Google Scholar Profile](https://scholar.google.com.hk/citations?user=Sp4xqzkAAAAJ&hl=en&oi=sra)]
+* **Liu, Z**.*, Zhou, W., Qin, J., & Jiang, Q. (2026). Entity-Faithful Repair of Synthetic Supervision for Zero-Shot Image Captioning.<br>In ACM International Conference on Multimedia (ACM MM).
 
-* **Liu, Z**., Zhang, X., & Liu, J. (2025). Task-Specific Information Decomposition for End-to-End Dense Video Captioning.<br>In Annual Meeting of the Association for Computational Linguistics (ACL).
+* Jiang, Q., **Liu, Z**.*, Zhou, W., Qin, J., Huang, Q., & Wang, J. (2026). ExCap: Entity-Aware Zero-Shot Image Captioning via Faithful Synthetic Image-Text Alignment.<br>Knowledge-Based Systems.
 
-* **Liu, Z**., & Zhou, W. (2025). Bridging Semantic and Modality Gaps in Zero-Shot Captioning via Retrieval from Synthetic Data.<br>In Conference on Empirical Methods in Natural Language Processing (EMNLP).
+* Huang, Q., Yang, C., Yao, J., **Liu, Z**.*, Cai, Y., & Zhang, X. (2026). CMIG: Conceptual Metaphor Theory-Inspired Framework for Metaphorical Image Generation. In Annual Meeting of the Association for Computational Linguistics (ACL).
 
-* **Liu, Z**., Liu, S., Liu, J., & Zhang, X. (2025). Synthesize Then Align: Modality Alignment Augmentation for Zero-shot Image Captioning with Synthetic Data.<br>Knowledge-Based Systems.
+* **Liu, Z**.*, Zhang, X., & Liu, J. (2025). Task-Specific Information Decomposition for End-to-End Dense Video Captioning.<br>In Annual Meeting of the Association for Computational Linguistics (ACL).
+
+* **Liu, Z**.*, & Zhou, W. (2025). Bridging Semantic and Modality Gaps in Zero-Shot Captioning via Retrieval from Synthetic Data.<br>In Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+* **Liu, Z**.*, Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). Synthesize Then Align: Modality Alignment Augmentation for Zero-shot Image Captioning with Synthetic Data.<br>Knowledge-Based Systems.
 
 * Huang, Q., Li, P., Wang, W., Zhang, X., Chen, S., Cheng, H., & **Liu, Z**. (2025). Knowledge-Enhanced Chinese Multimodal Hate Speech Detection.<br>Expert Systems with Applications.
  
-* **Liu, Z**., Liu, J., Ling, X., Huang, Q., & Wang, J. (2025). A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering.<br>In IEEE International Conference on Multimedia & Expo (ICME).
+* **Liu, Z**.*, Liu, S., Liu, J., & Zhang, X. (2025). A Knowledge Noise Mitigation Framework for Knowledge-based Visual Question Answering.<br>In IEEE International Conference on Multimedia & Expo (ICME).
       
 * **Liu, Z**., Ma, F., & Ling, X. (2025). Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing.<br>In IEEE International Conference on Multimedia & Expo (ICME).
 
 * Yang, C., **Liu, Z**., Zhang, X., & Huang, Q. (2025). Deep Learning-Based Knowledge Injection for Metaphor Detection: A Comprehensive Review.<br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
-* **Liu, Z**., Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence (AAAI).
+* **Liu, Z**.*, Liu, J., & Ma, F. (2024). Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning.<br>In AAAI Conference on Artificial Intelligence (AAAI).
 
-* **Liu, Z**., & Ma, F. (2024). Target-oriented Multimodal Sentiment Classification with Adaptive Modality Weighting.<br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
+* **Liu, Z**.*, & Ma, F. (2024). Target-oriented Multimodal Sentiment Classification with Adaptive Modality Weighting.<br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
-* Wang, Z.\*, **Liu, Z.\***, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (ACL, *Equal contribution).
+* Wang, Z.†, **Liu, Z**.†, Zheng, X., Su, Q., & Wang, J. (2023). RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks. <br>In Annual Meeting of the Association for Computational Linguistics (ACL, †Equal contribution).
 
 * Lei, N., Cai, J., Qian, Y., Zheng, Z., Han, C., **Liu, Z**., & Huang, Q. (2023). A Two-Stage Chinese Medical Video Retrieval Framework with LLM. <br>In CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC).
 
